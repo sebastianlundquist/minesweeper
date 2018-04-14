@@ -93,4 +93,4 @@ function Board(x, y) {
 }
 
 
-var myBoard = new Board(5, 5);
+var myBoard = new Board(7, 7);
